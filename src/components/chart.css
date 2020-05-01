@@ -1,0 +1,16 @@
+.paper {
+  padding: 10px 15px;
+  font-size: 20px;
+  margin-left: 10px;
+}
+.bar {
+  margin-right: 10px;
+  font-size: 20px;
+  padding: 10px 15px;
+}
+.paginate {
+  width: max-content;
+  margin: auto;
+  vertical-align: center;
+  height: 50px;
+}

@@ -1,0 +1,160 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Customer data renders correctly 1`] = `
+<div
+  className="MuiPaper-root makeStyles-tableContainer-1 MuiPaper-elevation1 MuiPaper-rounded"
+>
+  <div
+    className="MuiPaper-root makeStyles-header-3 MuiPaper-outlined MuiPaper-rounded"
+  >
+    <p
+      className="makeStyles-para-5"
+    >
+      Customers
+    </p>
+  </div>
+  <div
+    className="MuiPaper-root MuiTableContainer-root makeStyles-table-2 MuiPaper-elevation0 MuiPaper-rounded"
+  >
+    <table
+      aria-label="customized table"
+      className="MuiTable-root"
+      role={null}
+    >
+      <thead
+        className="MuiTableHead-root"
+        role={null}
+      >
+        <tr
+          className="MuiTableRow-root makeStyles-row-4 MuiTableRow-head"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-head WithStyles(ForwardRef(TableCell))-head-43"
+            scope="col"
+          >
+            ID
+          </th>
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-head WithStyles(ForwardRef(TableCell))-head-43"
+            scope="col"
+          >
+            First Name
+          </th>
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-head WithStyles(ForwardRef(TableCell))-head-43"
+            scope="col"
+          >
+            Last Name
+          </th>
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-head WithStyles(ForwardRef(TableCell))-head-43"
+            scope="col"
+          >
+            Email
+          </th>
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-head WithStyles(ForwardRef(TableCell))-head-43"
+            scope="col"
+          >
+            Created
+          </th>
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-head WithStyles(ForwardRef(TableCell))-head-43"
+            scope="col"
+          >
+            Orders
+          </th>
+        </tr>
+      </thead>
+      <tbody
+        className="MuiTableBody-root"
+        role={null}
+      />
+    </table>
+  </div>
+  <div
+    className="paginate"
+  >
+    <nav
+      aria-label="pagination navigation"
+      className="MuiPagination-root"
+    >
+      <ul
+        className="MuiPagination-ul"
+      >
+        <li>
+          <button
+            aria-label="Go to previous page"
+            className="MuiButtonBase-root MuiPaginationItem-root MuiPaginationItem-page Mui-disabled Mui-disabled"
+            disabled={true}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={-1}
+            type="button"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root MuiPaginationItem-icon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"
+              />
+            </svg>
+          </button>
+        </li>
+        <li>
+          <button
+            aria-label="Go to next page"
+            className="MuiButtonBase-root MuiPaginationItem-root MuiPaginationItem-page"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root MuiPaginationItem-icon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"
+              />
+            </svg>
+          </button>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</div>
+`;

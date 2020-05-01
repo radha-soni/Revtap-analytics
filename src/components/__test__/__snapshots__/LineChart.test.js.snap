@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`line chart renders correctly 1`] = `
+<div
+  className="MuiPaper-root paper MuiPaper-elevation3 MuiPaper-rounded"
+>
+  <div>
+    <p>
+      Orders Total Price
+    </p>
+  </div>
+</div>
+`;

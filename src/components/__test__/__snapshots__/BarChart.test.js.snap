@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`bar chart renders correctly 1`] = `
+<div
+  className="MuiPaper-root bar MuiPaper-elevation3 MuiPaper-rounded"
+>
+  <div>
+    <p>
+      Orders Count
+    </p>
+  </div>
+</div>
+`;

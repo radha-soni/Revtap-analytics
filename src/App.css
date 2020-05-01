@@ -1,0 +1,11 @@
+body {
+  background-color: #e0e1e8;
+  /* margin: 20px; */
+}
+.chartContainer {
+  display: flex;
+  /* justify-content: space-around; */
+
+  margin: 20px auto;
+  width: 1280px;
+}
